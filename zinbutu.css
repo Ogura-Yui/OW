@@ -1,0 +1,102 @@
+footer,header{
+    background-color: yellowgreen;
+}
+
+li,main{
+    font-family: UD デジタル 教科書体 NP-R;
+}
+header{
+    align-items: center;
+}
+.right{
+    position: absolute;
+    left: 90%;
+    top: 5%;
+
+}
+.inline,.numbani{
+    display: inline-block;
+    padding: 10px;
+}
+.numbani{
+    text-shadow: 3px 3px rgb(138, 137, 137);
+}
+
+main,.main,.numbani,h6,h2.iframe,h5,footer,.footer,body{
+    margin: 0%;
+}
+.footer2,.numbani{
+    font-family: Arial Rounded MT Bold;
+}
+.numbani{
+    font-size: 300%;
+    margin-right: auto;
+}
+.numbani,.link{
+    display: inline;
+}
+.top{
+    text-decoration: none;
+}
+.numbani,.top,a.top:visited{
+    color: yellow;
+}
+.link{
+    list-style: none;
+    padding: 10px;
+}
+.bunsyou{
+    margin-left : 35px;
+}
+#top{
+    position: fixed;
+    top: 90%;
+    left: 95%;
+    z-index: 2;
+}
+.main{
+    color: yellowgreen;
+    height: 300%;
+}
+.iframe,.main{
+    text-align:center;
+}
+.syoukai{
+    background-color:rgb(253, 246, 139);
+
+}
+.bunsyou{
+    margin-left: 10%;
+}
+.fadein {
+    font-size: 20px;
+    font-weight: bold;
+    animation-name: fadein;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+}
+@keyframes fadein {
+from {
+    opacity: 0;
+    transform: translateY(20px);
+}
+to {
+    opacity: 1;
+    transform: translateY(0);
+}
+}
+.footer2,.numbani{
+    font-family: Arial Rounded MT Bold;
+}
+caption{
+    font-size: 30px;
+}
+.video{
+    text-align: center;
+}
+.numbani2{
+    position: absolute;
+    left: 45%;
+    top: 430%;
+}
+  

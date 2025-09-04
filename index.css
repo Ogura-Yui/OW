@@ -1,0 +1,109 @@
+footer,header{
+    background-color: yellowgreen;
+}
+.syoukai{
+    background-color: rgb(194, 243, 95);
+}
+.syoukai,.iframe,.saigo,li{
+    font-family: UD デジタル 教科書体 NP-R;
+}
+header{
+    align-items: center;
+}
+.right{
+    position: absolute;
+    left: 90%;
+    top: 5%;
+
+}
+.inline,.numbani{
+    display: inline-block;
+    padding: 10px;
+}
+.main{
+    background-color: rgb(251, 253, 250);
+    font-size: 200%;
+}
+.small{
+    font-size: 80%;
+}
+.main,.numbani{
+    text-shadow: 3px 3px rgb(138, 137, 137);
+}
+main,.main{
+    background-image: url("numbani.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+main,.main,.numbani,h6,h2.iframe,h5,footer,.footer,body,.saigo{
+    margin: 0%;
+}
+.footer2,.numbani{
+    font-family: Arial Rounded MT Bold;
+}
+.numbani{
+    font-size: 300%;
+    margin-right: auto;
+}
+.numbani,.link{
+    display: inline;
+}
+.top{
+    text-decoration: none;
+}
+.numbani,.top,a.top:visited{
+    color: yellow;
+}
+.link{
+    list-style: none;
+    padding: 10px;
+}
+.main{
+    color: white;
+    height: 300%;
+}
+.iframe,.main{
+    text-align:center;
+}
+.iframe{
+    background-color:rgb(253, 246, 139);
+}
+.saigo{
+    background-color: white;
+}
+.numbani2{
+    position: absolute;
+    left: 45%;
+    top: 430%;
+
+}
+.bunsyou{
+    margin-left : 35px;
+}
+.orisa{
+    position: relative;
+    left: 20%;
+}
+.efi{
+    position: relative;
+    left: 30%;
+}
+.orisaa{
+    position: relative;
+    left: 30%;
+}
+.efii{
+    position: relative;
+    left: 60%;
+}
+cite,q{
+    color: rgb(255, 72, 0);
+}
+#top{
+    position: fixed;
+    top: 90%;
+    left: 95%;
+    z-index: 2;
+}
+  
